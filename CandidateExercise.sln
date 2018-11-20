@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateExercise", "Candid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowExercise", "SpecflowExercise\SpecflowExercise.csproj", "{166C4EEB-F02F-4372-BC9E-28FF07EBDA52}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{766CD855-F203-46E4-9A15-21200B63D60B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestResults", "TestResults", "{DEE47EDE-7944-4C10-966A-4901266F3BBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DEE47EDE-7944-4C10-966A-4901266F3BBE} = {766CD855-F203-46E4-9A15-21200B63D60B}
 	EndGlobalSection
 EndGlobal
