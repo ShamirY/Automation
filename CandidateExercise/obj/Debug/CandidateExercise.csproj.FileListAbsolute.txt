@@ -1,0 +1,12 @@
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\CandidateExercise\bin\Debug\CandidateExercise.exe.config
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\CandidateExercise\obj\Debug\CandidateExercise.csprojResolveAssemblyReference.cache
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\CandidateExercise\bin\Debug\CandidateExercise.exe
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\CandidateExercise\bin\Debug\CandidateExercise.pdb
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\CandidateExercise\obj\Debug\CandidateExercise.exe
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\CandidateExercise\obj\Debug\CandidateExercise.pdb
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\CandidateExercise\bin\Debug\CandidateExercise.exe.config
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\CandidateExercise\obj\Debug\CandidateExercise.exe
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\CandidateExercise\obj\Debug\CandidateExercise.pdb
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\CandidateExercise\bin\Debug\CandidateExercise.exe
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\CandidateExercise\bin\Debug\CandidateExercise.pdb
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\CandidateExercise\obj\Debug\CandidateExercise.csprojResolveAssemblyReference.cache

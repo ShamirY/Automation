@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateExercise", "CandidateExercise\CandidateExercise.csproj", "{59E66F6D-8281-4076-858D-0A0459BDF817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowExercise", "SpecflowExercise\SpecflowExercise.csproj", "{166C4EEB-F02F-4372-BC9E-28FF07EBDA52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E66F6D-8281-4076-858D-0A0459BDF817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E66F6D-8281-4076-858D-0A0459BDF817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E66F6D-8281-4076-858D-0A0459BDF817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E66F6D-8281-4076-858D-0A0459BDF817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166C4EEB-F02F-4372-BC9E-28FF07EBDA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166C4EEB-F02F-4372-BC9E-28FF07EBDA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166C4EEB-F02F-4372-BC9E-28FF07EBDA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166C4EEB-F02F-4372-BC9E-28FF07EBDA52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

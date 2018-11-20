@@ -1,0 +1,10 @@
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\SpecflowExercise\bin\Debug\SpecflowExercise.dll
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\SpecflowExercise\bin\Debug\SpecflowExercise.pdb
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\SpecflowExercise\obj\Debug\SpecflowExercise.csprojResolveAssemblyReference.cache
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\SpecflowExercise\obj\Debug\SpecflowExercise.dll
+C:\Users\Candidate\Documents\Pavel\CandidateExercise\SpecflowExercise\obj\Debug\SpecflowExercise.pdb
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\SpecflowExercise\bin\Debug\SpecflowExercise.dll
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\SpecflowExercise\bin\Debug\SpecflowExercise.pdb
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\SpecflowExercise\obj\Debug\SpecflowExercise.csprojResolveAssemblyReference.cache
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\SpecflowExercise\obj\Debug\SpecflowExercise.dll
+C:\Users\Candidate\Documents\Yaniv\CandidateExercise\SpecflowExercise\obj\Debug\SpecflowExercise.pdb
